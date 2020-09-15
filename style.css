@@ -4,7 +4,7 @@ html {
 .wrapper {
     width: 93.75%;
     height: 100vh;
-    background: url(images/Group\ 1.png);
+    background: url(assets/images/Group\ 1.png);
     background-size: cover;
     margin-left: 6.25%;
 }
